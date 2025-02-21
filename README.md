@@ -13,7 +13,7 @@ The **FullStackCatalog** is a full-stack modular project, created to demonstrate
 - **API Gateway**: Submodule responsible for managing the API requests and responses, built with Net 8 and Ocelot
 
 ## 📂 Project's structure
-FullStackCatalog/
+FullStackCatalog/  
 &nbsp;&nbsp;├── FullStackCatalog-Frontend/ (React + Vite)  
 &nbsp;&nbsp;├── FullStackCatalog-Backend/ (C# API's)  
 &nbsp;&nbsp;├── FullStackCatalog-Gateway/ (C# + Ocelot)  
