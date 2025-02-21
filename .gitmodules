@@ -1,0 +1,10 @@
+
+[submodule "FullStackCatalog.Frontend"]
+	path = FullStackCatalog.Frontend
+	url = https://github.com/Matt-Alves07/FullStackCatalog.Frontend
+[submodule "FullStackCatalog.Backend"]
+	path = FullStackCatalog.Backend
+	url = https://github.com/Matt-Alves07/FullStackCatalog.Backend
+[submodule "FullStackCatalog.Gateway"]
+	path = FullStackCatalog.Gateway
+	url = https://github.com/Matt-Alves07/FullStackCatalog.Gateway
