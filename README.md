@@ -14,9 +14,9 @@ The **FullStackCatalog** is a full-stack modular project, created to demonstrate
 
 ## 📂 Project's structure
 FullStackCatalog/
-&nbsp;&nbsp;├── FullStackCatalog-Frontend/ (React + Vite)
-&nbsp;&nbsp;├── FullStackCatalog-Backend/ (C# API's)
-&nbsp;&nbsp;├── FullStackCatalog-Gateway/ (C# + Ocelot)
+&nbsp;&nbsp;├── FullStackCatalog-Frontend/ (React + Vite)  
+&nbsp;&nbsp;├── FullStackCatalog-Backend/ (C# API's)  
+&nbsp;&nbsp;├── FullStackCatalog-Gateway/ (C# + Ocelot)  
 
 ## 🚀 Technologies used in this project
 - **Frontend**: React, Vite, JavaScript
@@ -49,8 +49,8 @@ npm run dev
 ```
 
 ## 📜 License
-This project is under public domain, licensed under **The Unlicense**.
-Fell free to use, modify and distribute this project as you see fit, but, please, don't forget to give me the credits for the original work.
+This project is under public domain, licensed under **The Unlicense**.  
+Fell free to use, modify and distribute this project as you see fit, but, please, don't forget to give me the credits for the original work.  
 You can see more about the license in the [LICENSE](LICENSE) file.
 
 ## 🛠 Created and maintained by [Matt-Alves07](https://github.com/Matt-Alves07)
